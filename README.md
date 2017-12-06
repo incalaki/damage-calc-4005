@@ -1,5 +1,7 @@
 # damage-calc
-このモジュールでは、ダメージ計算を行うことができます。ダメージ計算には
+[![CircleCI](https://circleci.com/gh/incalaki/damage-calc-4005.svg?style=svg)](https://circleci.com/gh/incalaki/damage-calc-4005)
+このモジュールでは、ダメージ計算を行うことができます。  
+ダメージ計算には
 
 - ダメージ
 - 防御
